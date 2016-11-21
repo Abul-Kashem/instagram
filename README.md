@@ -21,4 +21,17 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+* ..
+
+
+
+
+rails generate model Pic title:string description:text
+rails generate controller Pics
+
+
+
+
+
+
+
