@@ -4,7 +4,7 @@ class PicsController < ApplicationController
   end
 
   def new
-    @pic =Pic.new
+    @pic = Pic.new
   end
 
   def create
