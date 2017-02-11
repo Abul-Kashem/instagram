@@ -30,6 +30,9 @@ rails generate model Pic title:string description:text
 rails generate controller Pics
 rails generate simple_form:install --bootstrap
 
+rails g migration add_user_id_to_pics user_id:integer:index
+
+
 
 
 
