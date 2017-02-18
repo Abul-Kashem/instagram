@@ -22,6 +22,9 @@ Things you may want to cover:
 * Deployment instructions
 
 * ..
+Query:
+1. Why massonary not working?
+2. Sign Up Password confirmation how can write in html output?
 
 
 
